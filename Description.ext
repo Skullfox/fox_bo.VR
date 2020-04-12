@@ -1,0 +1,11 @@
+disabledAI = 1;
+allowFunctionsRecompile = 1;
+enableDebugConsole = 1;
+
+
+class CfgFunctions {
+	#include "fox_bo\cfgFunctions.hpp"
+};
+
+#include "fox_bo\interface\defines.hpp"
+#include "fox_bo\interface\menu.hpp"
